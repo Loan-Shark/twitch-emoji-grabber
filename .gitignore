@@ -1,0 +1,5 @@
+temp
+images/*
+!images/icon.ico
+start.bat
+node_modules/*

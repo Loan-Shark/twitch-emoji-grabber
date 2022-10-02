@@ -1,0 +1,26 @@
+{
+  "name": "twitch-emoji-grabber",
+  "version": "1.0.0",
+  "description": "for grabbing twitchemotes.com emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loan-Shark/twitch-emoji-grabber.git"
+  },
+  "author": "Miles Packham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loan-Shark/twitch-emoji-grabber/issues"
+  },
+  "homepage": "https://github.com/Loan-Shark/twitch-emoji-grabber#readme",
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "prompt": "^1.3.0",
+    "puppeteer": "^18.0.5",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
